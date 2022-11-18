@@ -23,11 +23,13 @@ h2,
 h4 {
     font-family: 'Montserrat', sans-serif;
 }
-h3{
+
+h3 {
     font-weight: 300;
     font-size: medium;
-    margin:15px 0;
+    margin: 15px 0;
 }
+
 .header {
     padding-bottom: 20px;
     border-bottom: 1px solid lightgrey;
@@ -40,7 +42,7 @@ h3{
 }
 
 .hero {
-    width: 0px;
+    width: 580px;
 }
 
 .post-img {
